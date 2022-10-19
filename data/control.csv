@@ -1,0 +1,11 @@
+Prueba,Scroll,Exito,Ruta_1_Reco,Ruta_2_Quizz,Tiempo
+Test_1,si,no,si,no,180
+Test_2,no,si,si,no,60
+Test_3,si,si,no,si,75
+Test_4,si,si,no,si,47
+Test_5,si,si,no,si,48
+Test_6,si,no,no,no,101
+Test_7,no,si,si,no,65
+Test_8,si,si,no,si,41
+Test_9,si,no,no,si,108
+Test_10,si,si,no,si,85
